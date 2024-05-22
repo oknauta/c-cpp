@@ -1,5 +1,5 @@
 /***************************************************************************
- *        File: definitions.c
+ *        File: typewriter.c
  *     Created: 2024-05-20
  *    Modified: 2024-05-20
  *      Author: oknauta
